@@ -1,0 +1,33 @@
+div {
+    height: 100%;
+    display: flex;
+    margin:auto
+}
+
+.box-1 {
+    width: 15%;
+    height:96vh;
+    border: 2px solid black;
+    background-color: darkgoldenrod;
+}
+
+.box-2 {
+    width: 15%;
+    height: 96vh;
+    border: 2px solid black;
+    background-color: darkred;
+}
+
+.box-3 {
+    width: 15%;
+    height: 96vh;
+    border: 2px solid black;
+    background-color: darkgreen;
+}
+
+.box-4 {
+    width: 15%;
+    height: 96vh;
+    border: 2px solid black;
+    background-color: darkblue;
+}
